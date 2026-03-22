@@ -1,4 +1,4 @@
-# Queue-Queue Values in Descending Order Using Python 🧮
+# Queue-Queue Values in Descending Order Using Python 🧮.
 
 This Python program simulates a queue using a list, removes the first two elements (FIFO order), and displays the remaining values in descending order.
 
